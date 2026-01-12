@@ -1,4 +1,4 @@
-# esp32s3-for-usb-ticket-printer
+# ESP32S3 FOR USB PRINTER
 Esc Pos Usb printer with Esp32S3
 
 The code that finally worked doesn't rely on a "library" in the traditional Arduino sense (like something you download from a Library Manager). 
